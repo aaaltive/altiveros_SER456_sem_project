@@ -1,3 +1,8 @@
+/*
+* This code is adapted from the fauxmo repository created by vintlabs 
+*that can be found at https://github.com/vintlabs/fauxmoESP
+*/
+
 #include <Arduino.h>
 #ifdef ESP32
     #include <WiFi.h>
