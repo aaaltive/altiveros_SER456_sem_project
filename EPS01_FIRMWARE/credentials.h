@@ -1,2 +1,2 @@
-#define WIFI_SSID "aaaltive"
-#define WIFI_PASS "11111111112"
+#define WIFI_SSID "[fill in with your network name]"
+#define WIFI_PASS "[fill in with your network password]"
